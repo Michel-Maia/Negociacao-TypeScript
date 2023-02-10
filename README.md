@@ -1,9 +1,16 @@
 # Negociacao TypeScript
- desenvolvido para aprendizado
+
+ 
+Desenvolvido para aprendizado. 10/02/2023
+Realizado durante aula (01) de TypeScript na plataforma da Alura. 
 
 
+## 💻 Tecnologias
 
-nvm install 10.21.0
+- TypeScript
 
 
-npm run server 
+## Referência
+
+- [alura] [https://www.alura.com.br/]
+
